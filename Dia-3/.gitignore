@@ -1,4 +1,3 @@
 # Ignorar logs e ambiente
 .env
 logs/
-debug.log
